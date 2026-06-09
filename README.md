@@ -31,7 +31,7 @@ For detailed specifications on the charging protocols and standards, refer to:
 Ensure Go is installed (version 1.18 or higher is recommended). Install the package using:
 
 ```bash
-go get github.com/cairovolt/chargercompat
+go get github.com/abdullahcairovolt-rgb/chargercompat
 ```
 
 ---
@@ -45,7 +45,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/cairovolt/chargercompat"
+	"github.com/abdullahcairovolt-rgb/chargercompat"
 )
 
 func main() {

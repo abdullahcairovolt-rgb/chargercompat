@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/cairovolt/chargercompat"
+	"github.com/abdullahcairovolt-rgb/chargercompat"
 )
 
 func main() {
